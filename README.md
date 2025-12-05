@@ -23,7 +23,7 @@ This repository contains lab reports and materials for the "Data Analysis" cours
 * Introduction to Neural Networks (PyTorch/TensorFlow).
 * **Part 1:** Building and training a Multi-Layer Perceptron (MLP).
 * **Part 2:** Convolutional Neural Networks (CNN) for image classification.
-* **Part 3:** Recurrent Neural Networks (RNN/GRU/LSTM) or Transfer Learning.
+* **Part 3:** Recurrent Neural Networks (RNN/GRU/LSTM) for text classification.
 
 ### [Lab 4: Modern Architectures & Generative AI](Lab4/)
 **Files:** `Lab4_1.ipynb`, `Lab4_2.ipynb`, `Lab4_3.ipynb`
